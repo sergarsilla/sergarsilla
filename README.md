@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
-Sergio Garcia</a></h1>
+<h1 align="center">Hi 👋, I'm Sergio Garcia</h1>
 <h3 align="center">A passionate Computer Engineer, Software Developer, <br/>Full Stack Web & Mobile App Developer</h3>
 
 <a target="_blank" align="center">
