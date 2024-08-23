@@ -12,7 +12,7 @@ Sergio Garcia</a></h1>
 
 - 📫 How to reach me **sergarsilla@gmail.com**
 
-- 📄 Know about my experiences <a href="https://github.com/sergarsilla/sergarsilla/CV_Sergio_García_Inglés.pdf" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://github.com/sergarsilla/sergarsilla/CV_English.pdf" target="blank">Resume</a>
 <br/>
 
 <p  align="center">
