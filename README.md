@@ -1,17 +1,21 @@
 <h1 align="center">Hi 👋, I'm Sergio Garcia</h1>
-<h3 align="center">A passionate Computer Engineer, Software Developer, <br/>Full Stack Web & Mobile App Developer</h3>
+<h3 align="center">Computer Engineer — Cybersecurity & Systems Technician, <br/>with a solid Software & Mobile App Development background</h3>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🌱 I’m currently Working on Mobile App(React-Native)
+- 🔐 I'm currently working in Cybersecurity & Systems: SIEM (Wazuh), hardening, cloud security and ISO 27001
 
-- 🤝 I’m available for freelancing.
+- 🧠 Building AI-powered security tooling: <a href="https://github.com/sergarsilla/wazuh-anomaly-detector" target="blank">wazuh-anomaly-detector</a> and <a href="https://github.com/sergarsilla/wazuh-llm-triage" target="blank">wazuh-llm-triage</a>
+
+- 🤝 I'm available for freelancing.
+
+- 🌐 Check out my portfolio at <a href="https://sergarsilla.is-a.dev" target="blank">sergarsilla.is-a.dev</a>
 
 - 📫 How to reach me **sergarsilla@gmail.com**
 
-- 📄 Know about my experiences <a href="https://github.com/sergarsilla/sergarsilla/blob/main/CV_English.pdf" target="blank">Resume</a>
+- 📄 Know about my experiences: <a href="https://github.com/sergarsilla/sergarsilla/blob/main/CV_English.pdf" target="blank">Resume (EN)</a> · <a href="https://github.com/sergarsilla/sergarsilla/blob/main/CV_Spanish.pdf" target="blank">CV (ES)</a>
 <br/>
 
 <p  align="center">
@@ -62,4 +66,4 @@
 
 Credit: [Sergio García](https://github.com/sergarsilla)
 
-Last Edited on: 23/08/2024
+Last Edited on: 05/07/2026
