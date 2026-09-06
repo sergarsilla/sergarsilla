@@ -9,6 +9,8 @@
 
 - 🧠 Building AI-powered security tooling: <a href="https://github.com/sergarsilla/wazuh-anomaly-detector" target="blank">wazuh-anomaly-detector</a> and <a href="https://github.com/sergarsilla/wazuh-llm-triage" target="blank">wazuh-llm-triage</a>
 
+- 🩹 <a href="https://github.com/sergarsilla/vulnfold" target="blank">vulnfold</a> — collapses Wazuh vulnerability findings into a ranked patch plan, and separates the 58% that have no vendor fix from the ones you can actually act on
+
 - 🤝 I'm available for freelancing.
 
 - 🌐 Check out my portfolio at <a href="https://sergarsilla.is-a.dev" target="blank">sergarsilla.is-a.dev</a>
